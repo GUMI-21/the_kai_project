@@ -99,7 +99,7 @@ $$
 $$
 
 $$
-\text{最小値: }f(-\frac{\sqrt{2}}{2},\frac{\sqrt{2}}{2}) = -\sqrt{2}e^{-\frac{1}{2}}
+\text{最小値: }f(-\frac{\sqrt{2}}{2},-\frac{\sqrt{2}}{2}) = -\sqrt{2}e^{-\frac{1}{2}}
 $$
 
 ### 微分方程式
@@ -134,7 +134,7 @@ u = \pm\frac{\sqrt{2(Cx - 1)}}{2}(C = e^{C_1})
 $$
 
 $$
-y = ux = \pm\frac{2(Cx - 1)}{2}x(C = e^{C_1})
+y = ux = \pm\frac{\sqrt{2(Cx - 1)}}{2}x(C = e^{C_1})
 $$
 
 #### (2)
